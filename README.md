@@ -1,5 +1,5 @@
-# Sniper Network Profile (Beta)
-Sniper network profile contains following network configuration rules.
+# ASpear Network Profile (Beta)
+ASpear network profile contains following network configuration rules.
 
 Currently supported rules:
 - DNS Server
